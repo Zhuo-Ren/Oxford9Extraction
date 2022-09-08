@@ -15,6 +15,10 @@
 
 - 清空输出路径：我们的输出放在`/dict/`、`/static/oxford9/`和`/raw/`中。请在运行程序前确保这些文件夹是空的（至少第一个路径是空的，这是最终输出结果；后两个路径中的内容涉及手动操作，我就留着了，用户可以不删除。）。
 
+- 注意：因为文件太大，`/dict/`和`/raw/`中的内容不能上传。如果你不想重头跑一边程序的话，可以从网盘下载对应文件：链接：https://pan.baidu.com/s/1gUpOof2kqnA3yMy53fn_pw?pwd=b5xj 
+提取码：b5xj 
+
+
 # 流程
 ## 字典抽取
 - 下载[GetDict](https://pan.baidu.com/share/link?uk=305151372&shareid=2565690867)
